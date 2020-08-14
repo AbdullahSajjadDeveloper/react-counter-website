@@ -1,0 +1,56 @@
+body {
+    background-color: #03C04A;
+}
+
+#idBox {
+    background-color: white;
+    border: 0cm solid white;
+    box-shadow: 8px 8px black;
+    border-radius: 0.5cm;
+    width: 10cm;
+    height: 10cm;
+    text-align: center;
+    margin-top: 3.5cm;
+    margin-left: 12.5cm;
+}
+
+#idNumber {
+    padding-top: 0.7cm;
+    font-family: monospace;
+    font-size: 3cm;
+}
+
+#i {
+    color: white;
+    font-family: cursive;
+    font-size: 1.5cm;
+    margin-right: 3cm;
+    margin-top: 0.3cm;
+    background-color: #A32CC4;
+    border: 0cm solid white;
+    border-radius: 0.1cm;
+    padding-top: 0cm;
+    padding-bottom: 0cm;
+    padding-right: 0.5cm;
+    padding-left: 0.5cm;
+}
+
+#d {
+    color: white;
+    font-family: cursive;
+    font-size: 1.5cm;
+    background-color: #A1045A;
+    border: 0cm solid white;
+    border-radius: 0.1cm;
+    padding-top: 0cm;
+    padding-bottom: 0cm;
+    padding-right: 0.5cm;
+    padding-left: 0.5cm;
+}
+
+#madeByAS {
+    font-family: cursive;
+    font-size: 0.5cm;
+    margin-top: 1.5cm;
+    margin-left: 14.4cm;
+}
